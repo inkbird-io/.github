@@ -1,4 +1,4 @@
-# .github
+# Inkbird
 
 Inkbird is a tech start-up in the Midwest, specializing in design, web development, and storytelling.
 
